@@ -14,11 +14,11 @@
 ## ログイン情報
 
 ### 協力会社側
-- URL：`https://collab-link.azurewebsites.net/partner/login`
+- URL：https://collab-link.azurewebsites.net/partner/login
 - メールアドレスとパスワードでログイン
 
 ### 社員側
-- URL：`https://collab-link.azurewebsites.net/employee/login`
+- URL：https://collab-link.azurewebsites.net/employee/login
 - Microsoftアカウント（姓_名@kosugi-zohen.co.jp）でログイン
 
 ---
